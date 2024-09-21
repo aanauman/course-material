@@ -1,0 +1,1 @@
+The repository is going to containg exercises for Java, Alogorithms and Data Structures and SQL
