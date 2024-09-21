@@ -1,1 +1,4 @@
-The repository is going to containg exercises for Java, Alogorithms and Data Structures and SQL
+The repository is going to containg exercises for 
+Java Programming course
+Alogorithms and Data Structures course 
+And SQL
